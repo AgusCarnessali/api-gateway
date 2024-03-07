@@ -36,8 +36,6 @@ D
 discovery/.gitignore,b\1\b180da22f818f9d49f7e2f2ec0a63977f2f02a16
 B
 config-server/mvnw,1\7\173763af57b6fde362a1515ed21f9f70eae4a329
-a
-1gateway/src/main/resources/application.properties,7\2\723d904adf42b8d4a8340e269af7dbe382232488
 E
 config-server/HELP.md,e\b\ebaba7304a3b512ab5a115bf99b72523e79690e8
 H
@@ -60,8 +58,6 @@ Vconfig-server/src/test/java/com/agustin/configserver/ConfigServerApplicationTes
 student/mvnw,8\c\8c108afe402d2581ebe009108ab41754b71766ff
 @
 student/mvnw.cmd,d\b\db4589d5169d8d9996325e14dda0b164b7819354
-g
-7config-server/src/main/resources/application.properties,b\c\bc48b36be288a4ae6bf49193c3a8e49813c69351
 Å
 Qconfig-server/src/main/java/com/agustin/configserver/ConfigServerApplication.java,7\8\78fc908c7f7288ef072c463af6d591540b949c4b
 B
